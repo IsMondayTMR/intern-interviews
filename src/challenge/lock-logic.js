@@ -21,7 +21,7 @@ function changeDialValue (index, incrementBy) {
     lockState.locked = false;
   }
   if (lockState.locked == false) {
-    window.location = "../interns/larry-lobster/index.html"
+    window.location = "../interns/Bo_An/index.html"
   }
   // This part is missing some code
   // This function is automatically called when the user clicks on a chevron
